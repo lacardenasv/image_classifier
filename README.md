@@ -1,4 +1,4 @@
-### Python script to classify manually images 
+### Python script to classify images manually
 
 Crear un virtualenv con python3.8
 
